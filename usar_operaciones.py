@@ -5,3 +5,8 @@ resultado2 = operaciones.restar(10, 4)
 
 print(resultado1)
 print(resultado2)
+
+
+from operaciones import sumar
+resultado = sumar(5, 3)
+print(resultado)
